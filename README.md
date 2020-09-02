@@ -9,4 +9,4 @@
 
 ### 爬取数据的部分截图
 
-![image-20200902170940756](D:\project\DealmoonCommentSpider\screenshots\image-20200902170940756.png)
+![image-20200902170940756].\screenshots\image-20200902170940756.png)
